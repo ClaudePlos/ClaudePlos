@@ -31,6 +31,12 @@ Others: \
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) </br>
 
+<a href="https://github.com/ClaudePlos/helpdesk/blob/main/todo.md" target="_blank"><h8>todo</h8></a> 
+</br></br>
+
+![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
+
+
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
 
 
