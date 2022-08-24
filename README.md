@@ -64,4 +64,8 @@ Main projects:
 
 2. nap-kg2-app (Web KG for account department; spring+TS_hilla)
 3. ven-zam-mapi (WebProwiantowanie2 for hospital; spring+TS_hilla)
+
+Account rules:
+    private dt; //wn
+    private ct; //ma
 </pre>
