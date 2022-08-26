@@ -83,5 +83,5 @@ Kubernetes:
  OR
  4. kubectl expose deployment happy-hello-world-node --port=9999 --target-port=1111  --name=service-node --type=LoadBalancer (add pod deployment to network with your port)
  
- kubectl describe svc service-node (information about new port for tour app)
+ kubectl describe svc service-node (information about new port for tour app) OR kubectl get services
 </pre>
