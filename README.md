@@ -80,6 +80,8 @@ Kubernetes:
  2. kubectl create -f pod-first-node-app.yaml <Pod for images>
  3. kubectl apply -f dep-service-node.yaml <Deplyment form Pod>
  4. kubectl expose deployment happy-hello-world-node --type=NodePort --name=service-node <add pod deployment to network>
+ OR
+ 4. kubectl expose deployment happy-hello-world-node --port=9999 --target-port=1111  --name=service-node --type=LoadBalancer <add pod deployment to network with your port>
  
  kubectl describe svc service-node <information about new port for tour app>
 </pre>
