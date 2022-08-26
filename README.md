@@ -76,7 +76,7 @@ Kubernetes:
  kubectl get pods <pods list>
  kubectl get pods -o wide <information about ip pods> 
  
- 1. docker build -t firstnodeapp . <build images>
+ 1. docker build -t firstnodeapp . (build images)
  2. kubectl create -f pod-first-node-app.yaml <Pod for images>
  3. kubectl apply -f dep-service-node.yaml <Deplyment form Pod>
  4. kubectl expose deployment happy-hello-world-node --type=NodePort --name=service-node <add pod deployment to network>
