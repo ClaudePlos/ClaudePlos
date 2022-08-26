@@ -68,4 +68,7 @@ Main projects:
 Account rules:
     private dt; //wn
     private ct; //ma
+    
+Docker:
+ docker exec -it <ID cont> bash
 </pre>
