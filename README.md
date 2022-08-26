@@ -73,5 +73,6 @@ Docker:
  docker exec -it <ID cont> bash
  
 Kubernetes:
- kubectl get pods
+ kubectl get pods <pods list>
+ kubectl get pods -o wide <information about ip pods> 
 </pre>
