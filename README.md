@@ -71,4 +71,7 @@ Account rules:
     
 Docker:
  docker exec -it <ID cont> bash
+ 
+Kubernetes:
+ kubectl get pods
 </pre>
