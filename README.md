@@ -63,7 +63,7 @@ Here are some ideas to get you started:
 Main projects:
 1. nap_cash_registers ( )
 2. nap-kg2-app ( Web KG for account department; spring+TS_hilla; nap_docker2:dockerapp; )
-3. ven-zam-mapi ( WebProwiantowanie2 for hospital; spring+TS_hilla; nap_docker2:dockerapp; )
+3. ven-zam-mapi ( WebProwiantowanie2 for hospital; spring+TS_hilla; nap_docker2:dockerapp; ) http://192.168.0.144:8088/
 
 Account rules:
     private dt; //wn
