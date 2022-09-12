@@ -41,7 +41,7 @@ Others: \
 
 
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
-
+- ⚡ Fun fact: https://claudeplos.github.io/kskowronski
 
 
 <!--
