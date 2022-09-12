@@ -32,8 +32,8 @@ Others: \
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) </br>
 
 <a href="https://github.com/ClaudePlos/helpdesk/blob/main/todo.md" target="_blank"><h8>TODO(help)</h8></a> </br>
-<a href="https://github.com/ClaudePlos/PlSql_oracle/tree/master/public_html" target="_blank"><h8>EgeCode(plsql)</h8></a> 
-<a href=" https://claudeplos.github.io/kskowronski" target="_blank"><h8>⚡</h8></a> 
+<a href="https://github.com/ClaudePlos/PlSql_oracle/tree/master/public_html" target="_blank"><h8>EgeCode(plsql)</h8></a> <br>
+<a href="https://claudeplos.github.io/kskowronski" target="_blank"><h8>⚡</h8></a> 
 
 ![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
 
