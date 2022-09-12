@@ -1,6 +1,4 @@
 ### Hi there, I am Klaudiusz 👋 
-☕️ Buy Me a Coffee (You can support me directly here:)) - https://www.buymeacoffee.com/klaud
-
 🛠  Tech Stack \
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -31,6 +29,8 @@ Database: \
 Others: \
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) </br>
+
+☕️ Buy Me a Coffee (You can support me directly here:)) - https://www.buymeacoffee.com/klaud
 
 <a href="https://github.com/ClaudePlos/helpdesk/blob/main/todo.md" target="_blank"><h8>TODO(help)</h8></a> </br>
 <a href="https://github.com/ClaudePlos/PlSql_oracle/tree/master/public_html" target="_blank"><h8>EgeCode(plsql)</h8></a> <br>
