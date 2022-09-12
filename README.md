@@ -1,4 +1,5 @@
-### Hi there, I am Klaudiusz 👋
+### Hi there, I am Klaudiusz 👋 
+☕️ Buy Me a Coffee (You can support me directly here:)) - https://www.buymeacoffee.com/klaud
 
 🛠  Tech Stack \
 <h3 align="left">Languages and Tools:</h3>
