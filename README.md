@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: https://claudeplos.github.io/kskowronski
 -->
 
 <pre>
@@ -69,7 +69,7 @@ Main projects:
 6. 5w-portal-pf > on laptop
 7. prof-vdesk > newest PC
 8. prof-invoice-mail-attach > laptop
-https://claudeplos.github.io/kskowronski
+
 
 Account rules:
     private dt; //wn
