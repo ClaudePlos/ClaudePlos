@@ -69,6 +69,7 @@ Main projects:
 6. 5w-portal-pf > on laptop
 7. prof-vdesk > newest PC
 8. prof-invoice-mail-attach > laptop
+https://claudeplos.github.io/kskowronski
 
 Account rules:
     private dt; //wn
