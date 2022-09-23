@@ -63,7 +63,7 @@ Main projects:
 1. nap_cash_registers ( )
 2. nap-kg2-app ( Web KG for account department; spring+TS_hilla; nap_docker2:dockerapp; ) > 0.155
 3. ven-zam-mapi ( WebProwiantowanie2 for hospital; spring+TS_hilla; nap_docker2:dockerapp; ) http://192.168.0.144:8088/ > 0.155
-4. nap-portal-pg (https://portal.rekeep.pl; ) > 0.155 
+4. nap-portal-pg (https://portal.rekeep.pl; nap_docker:0.97) > 0.155 
 
 6. 5w-portal-pf > on laptop
 7. prof-vdesk > newest PC
