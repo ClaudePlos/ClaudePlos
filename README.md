@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 
 <pre>
 Main projects:
-1. nap_cash_registers (raporty kasowe)
+1. nap_cash_registers (raporty kasowe) > 0.155 > 
 2. nap-kg2-app ( Web KG for account department; spring+TS_hilla; nap_docker2:dockerapp; ) > 0.155 (ksiegowość)
 3. ven-zam-mapi ( WebProwiantowanie2 for hospital; spring+TS_hilla; nap_docker2:dockerapp; ) http://192.168.0.144:8088/ > 0.155 (prowiantowanie)
 4. nap-portal-pg (https://portal.rekeep.pl; nap_docker:0.97) > 0.155 (portal pracowniczy)
