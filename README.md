@@ -71,6 +71,7 @@ Main projects:
 --
 7. prof-vdesk > newest PC (integrancja z VD)
 8. prof-invoice-mail-attach > laptop (wysyłanie faktur przez email)
+9. prof_emp_portal > newest PC
 
 
 Account rules:
