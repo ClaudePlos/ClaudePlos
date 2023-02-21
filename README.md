@@ -65,7 +65,7 @@ Main projects:
 2. nap-kg2-app ( Web KG for account department; spring+TS_hilla; nap_docker2:dockerapp; ) > 0.155 (ksiegowość)
 3. ven-zam-mapi ( WebProwiantowanie2 for hospital; spring+TS_hilla; nap_docker2:dockerapp; ) http://192.168.0.144:8088/ > 0.155 (prowiantowanie)
 4. nap-portal-pg (https://portal.rekeep.pl; nap_docker:0.97) > 0.155 (portal pracowniczy)
-5. nap_foreigners > on laptop > 0.110 Hyper: FOREIGNERS putty: 192.168.0.116 sz.n@28.systemctl (apka dla obcokraj..)
+5. nap_foreigners > on new PC > 0.110 Hyper: FOREIGNERS putty: 192.168.0.116 sz.n@28.systemctl (apka dla obcokraj..)
 6. nap_agency > 0.155 > docker
 7. 5w-portal-pf > on laptop
 
