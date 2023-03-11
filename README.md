@@ -60,6 +60,10 @@ Here are some ideas to get you started:
 -->
 
 <pre>
+https://app.writesonic.com/pl/template/91dae0e1-7553-44fb-b10f-af0f339d923c/chatsonic/d5f46ec3-d5a0-43dd-8a96-ff97285b5c41
+</pre>
+
+<pre>
 Main projects:
 1. nap_cash_registers (raporty kasowe) 0.92 (systemctl) > 0.155 > 
 2. nap-kg2-app ( Web KG for account department; spring+TS_hilla; nap_docker2:dockerapp; ) > 0.155 (ksiegowość)
