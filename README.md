@@ -62,6 +62,7 @@ Here are some ideas to get you started:
 <pre> AI <br>
 <a href="https://app.writesonic.com/pl/template/91dae0e1-7553-44fb-b10f-af0f339d923c/chatsonic/d5f46ec3-d5a0-43dd-8a96-ff97285b5c41">writesonic</a> Chat
 <a href="https://www.useblackbox.io/">useblackbox</a> Ai form coding
+<a href="https://www.make.com/en">make</a> Build scenario with OpenAI
 </pre>
 
 <pre>
