@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 <a href="https://www.useblackbox.io/">useblackbox</a> Ai form coding
 <a href="https://www.make.com/en">make</a> Build scenario with OpenAI
 <a href="https://hoppscotch.io/">hoppscotch</a> Postman in webpage
-<a href="https://petrospsyllos.com/">hoppscotch</a> petrospsyllos
+<a href="https://petrospsyllos.com/">petrospsyllos</a> -- petros psyllos
 </pre>
 
 <pre>
