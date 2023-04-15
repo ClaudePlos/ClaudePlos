@@ -89,6 +89,8 @@ Account rules:
     
 Docker:
  docker exec -it (ID cont) bash
+ docker images
+ docker image rm
  
 Kubernetes:
  kubectl get pods (pods list)
