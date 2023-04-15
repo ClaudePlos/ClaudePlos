@@ -89,6 +89,9 @@ Account rules:
     
 Docker:
  docker exec -it (ID cont) bash
+ docker ps a
+ docker stop
+ docker rm
  docker images
  docker image rm
  
