@@ -65,6 +65,8 @@ Here are some ideas to get you started:
 <a href="https://www.make.com/en">make</a> Build scenario with OpenAI
 <a href="https://hoppscotch.io/">hoppscotch</a> Postman in webpage
 <a href="https://petrospsyllos.com/">petrospsyllos</a> -- petros psyllos
+<br>
+<a href="https://www.talend.com/products/integrate-data/">talend data integrator</a> 
 </pre>
 
 <pre>
