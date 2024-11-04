@@ -72,21 +72,6 @@ AI 2024 -06
 <a href="https://www.talend.com/products/integrate-data/">talend data integrator</a> 
 </pre>
 
-<pre>
-Main projects:
-1. nap_cash_registers (raporty kasowe) 0.92 (systemctl) > 0.155 > 
-2. nap-kg2-app ( Web KG for account department; spring+TS_hilla; nap_docker2:dockerapp; ) > 0.155 (ksiegowość)
-3. ven-zam-mapi ( WebProwiantowanie2 for hospital; spring+TS_hilla; nap_docker2:dockerapp; ) http://192.168.0.144:8088/ > 0.155 (prowiantowanie)
-4. nap-portal-pg (https://portal.rekeep.pl; nap_docker:0.97) > 0.155 (portal pracowniczy)
-5. nap_foreigners > on new PC > 0.110 Hyper: FOREIGNERS putty: 192.168.0.116 sz.n@28.systemctl (apka dla obcokraj..)
-6. nap_agency > 0.155 > docker
-7. 5w-portal-pf > on laptop
-
---
-7. prof-vdesk > newest PC (integrancja z VD)
-8. prof-invoice-mail-attach > laptop (wysyłanie faktur przez email)
-9. prof_emp_portal > newest PC (vaadin v17)
-
 
 Account rules:
     private dt; //wn
