@@ -1,4 +1,4 @@
-# ### Hi there, Klaudiusz here 👋 
+# Hi there, Klaudiusz here 👋 
 **Tech IT Developer**
 
 <p align="left">
